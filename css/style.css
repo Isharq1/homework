@@ -9,6 +9,8 @@ nav{
 }
 
 
+
+
 .jumbotron{
   background-image:url(../images/milky-way-2750627__340.jpg);
   background-size: cover;
@@ -36,4 +38,5 @@ nav{
 
 .footer, .back-to-top{
   color: black;
+  text-decoration: none;
 }
