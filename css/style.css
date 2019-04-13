@@ -1,7 +1,7 @@
 body{
   box-sizing: border-box;
   background-color: black;
-  height: 100%
+  margin: 0;
 }
 
 nav{
@@ -16,4 +16,20 @@ nav{
   align-items: center;
   color: white;
   height: 500px;
+}
+
+.bottom-image{
+  display: flex;
+  text-align: left;
+  margin-top: 0;
+  margin-bottom: 20px;
+  padding: 15px;
+}
+
+.bottom-image, .card-title{
+  color: Navy;
+}
+
+.bottom-image, .card-text{
+  color: black;
 }
