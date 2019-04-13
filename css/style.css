@@ -1,0 +1,9 @@
+body{
+  box-sizing: border-box;
+  background-color: black;
+}
+
+nav{
+  padding: 10px;
+  margin-bottom: 10px;
+}
