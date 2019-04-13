@@ -1,29 +1,29 @@
 body{
   box-sizing: border-box;
-  background-color: black;
+  background-color: lavender;
   margin: 0;
 }
 
 nav{
-  padding: 10px;
-  margin-bottom: 10px;
+  padding: 15px;
 }
 
+
 .jumbotron{
-  background-image:url(../images/70909237-abstract-modern-blue-black-carbon-fiber-textured-material-design-for-background-wallpaper-graphic-de.jpg);
-  background-size: contain;
+  background-image:url(../images/milky-way-2750627__340.jpg);
+  background-size: cover;
   text-align: center;
   align-items: center;
   color: white;
   height: 500px;
+  margin-top: 10px
 }
 
 .bottom-image{
   display: flex;
   text-align: left;
-  margin-top: 0;
-  margin-bottom: 20px;
   padding: 15px;
+  margin-bottom: 80px;
 }
 
 .bottom-image, .card-title{
@@ -31,5 +31,9 @@ nav{
 }
 
 .bottom-image, .card-text{
+  color: black;
+}
+
+.footer, .back-to-top{
   color: black;
 }
