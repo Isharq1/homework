@@ -1,0 +1,46 @@
+body{
+  background-color: lavender;
+  box-sizing: border-box;
+  margin:0;
+  font-family: sans-serif;
+}
+
+ul {
+padding: 0;
+color: white;
+list-style-type: none;
+margin: 0;
+position: fixed;
+overflow: hidden;
+}
+
+li{
+  float: left;
+}
+
+li a{
+  display: block;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  color: white;
+}
+
+.nav-other{
+  padding: 5px;
+
+}
+.about{
+  font-size: 1.3em;
+
+}
+
+
+
+.container-flux{
+  background-image:url(../images/milky-way-2750627__340.jpg);
+  background-size: cover;
+  color: white;
+  height: 300px;
+  margin-top: 0px;
+}
